@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "kg-creatives1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2c72515c-38ce-4286-b04c-57844a06f000",
+      "database_name": "kg-creatives"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
